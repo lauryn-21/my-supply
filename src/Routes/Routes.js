@@ -6,7 +6,7 @@ import {
 } from "react-router-dom"
 
 import Home from '../components/Homepage/Navbar';
-import Gallery from "../components/Gallery";
+import Gallery from "../components/Homepage/Gallery";
 import Footer from "../components/Homepage/Footer";
 import Badge from "../components/Homepage/Badge";
 import Homepage from '../components/Homepage/Homepage';
@@ -14,6 +14,8 @@ import Productdetail from '../components/Productdetail';
 import Shopstore from '../components/Shop/Shopstore';
 import Shop from '../components/Shop/Shop';
 import Shopstore1 from '../components/Shop/Shopstore1';
+import Cart from '../components/Cart/Cart';
+
 
 
 
@@ -30,6 +32,7 @@ function routes() {
                <Route path="/productdetail" element={<Productdetail />} />
                <Route path="/shopstore" element={<Shopstore />} />
                <Route path="/shopstore1" element={<Shopstore1 />} />
+               <Route path="/cart" element={<Cart />} />
                <Route path="Badge" element={<Badge />} />
                <Route path="Footer" element={<Footer />} />
             </Routes>

@@ -31,7 +31,7 @@ function Shopstore1() {
             <div class="grid grid-cols-1 gap-8 mt-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
                 <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
                     <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://5.imimg.com/data5/SELLER/Default/2021/2/EG/XU/YK/44299916/amul-cheese.jpg" alt="T-Shirt"/>
-                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">BROOKSIDE MILK</h4>
+                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">PIZZA CHEESE</h4>
                     <p class="text-blue-500">$12.55</p>
 
                     <button class="flex items-center justify-center w-full px-2 py-2 mt-4 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700">
@@ -43,8 +43,8 @@ function Shopstore1() {
                 </div>
 
                 <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
-                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://th.bing.com/th/id/OIP.F9m7X7pPaqlnDzekFddsDgHaI2?pid=ImgDet&rs=1" alt="T-Shirt"/>
-                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">MOUNT KENYA</h4>
+                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://th.bing.com/th/id/R.b55948675e5399b71d717447adf38aba?rik=OhKmvm2Kxt0oLg&riu=http%3a%2f%2fc.shld.net%2frpx%2fi%2fs%2fi%2fspin%2fimage%2fspin_prod_ec_766648501%3f%3fhei%3d64%26wid%3d64%26qlt%3d50&ehk=L2AI%2fXP2ww70NRcw5ec%2f108QZWuk5Dd%2bQB0SUKpf05U%3d&risl=&pid=ImgRaw&r=0" alt="T-Shirt"/>
+                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">MACARONI & CHEESE </h4>
                     <p class="text-blue-500">$18.70</p>
 
                     <button class="flex items-center justify-center w-full px-2 py-2 mt-4 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700">
@@ -56,8 +56,8 @@ function Shopstore1() {
                 </div>
 
                 <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
-                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://th.bing.com/th/id/OIP.j63H9IYBnT-L7o13jwBJkAHaKr?w=117&h=180&c=7&r=0&o=5&dpr=1.14&pid=1.7" alt="T-Shirt"/>
-                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">KCC</h4>
+                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://assets.dpo.store/wp-content/uploads/sites/218/2021/02/1614828840-300x300.jpg" alt="T-Shirt"/>
+                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">BROOKSIDE BUTTER</h4>
                     <p class="text-blue-500">$16.55</p>
 
                     <button class="flex items-center justify-center w-full px-2 py-2 mt-4 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700">
@@ -69,8 +69,8 @@ function Shopstore1() {
                 </div>
 
                 <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
-                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://farmiken.com/wp-content/uploads/2020/09/Tuzo-milk.jpg" alt="T-Shirt"/>
-                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">TUZO</h4>
+                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://i.roamcdn.net/hz/pi/listing-gallery-full-1920w/3e57ba804cc3729e61c67e32fa10de26/-/horizon-files-prod/pi/picture/qmkd7rm/fa365c075dfb22c3c40c4c079ef78495e581069a.jpg" alt="T-Shirt"/>
+                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">AWALI BUTTER</h4>
                     <p class="text-blue-500">$12.55</p>
 
                     <button class="flex items-center justify-center w-full px-2 py-2 mt-4 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700">
@@ -82,8 +82,8 @@ function Shopstore1() {
                 </div>
                 
                 <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
-                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/156521/1.jpg?7253" alt="T-Shirt"/>
-                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">GOLD CROWN</h4>
+                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://i0.wp.com/labelgurusdesigns.co.ke/wp-content/uploads/2021/05/Peanut-butter.jpg?w=700&ssl=1" alt="T-Shirt"/>
+                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">PEANUT BUTTER</h4>
                     <p class="text-blue-500">$12.55</p>
 
                     <button class="flex items-center justify-center w-full px-2 py-2 mt-4 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700">
@@ -95,8 +95,8 @@ function Shopstore1() {
                 </div>
 
                 <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
-                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/21/089372/1.jpg?6544" alt="T-Shirt"/>
-                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">KINANGOP</h4>
+                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://th.bing.com/th/id/R.98aa382d9e2580e5864b9b97dc92ce6c?rik=15AdM7e2WgAhFg&pid=ImgRaw&r=0" alt="T-Shirt"/>
+                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">PHILADELPHIA</h4>
                     <p class="text-blue-500">$12.55</p>
 
                     <button class="flex items-center justify-center w-full px-2 py-2 mt-4 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700">
@@ -108,8 +108,8 @@ function Shopstore1() {
                 </div>
 
                 <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
-                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://ugandaradionetwork.net/a/helpers/image.php?fileId=187512&m=0&w=960&h=960" alt="T-Shirt"/>
-                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">LATO MILK</h4>
+                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://th.bing.com/th/id/R.1d8ce9de69b8f5fd5e5baf6298074b5e?rik=eQ5UrUap44qHNQ&pid=ImgRaw&r=0" alt="T-Shirt"/>
+                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">CREAM CHEESE</h4>
                     <p class="text-blue-500">$12.55</p>
 
                     <button class="flex items-center justify-center w-full px-2 py-2 mt-4 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700">
@@ -121,8 +121,8 @@ function Shopstore1() {
                 </div>
 
                 <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
-                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://th.bing.com/th/id/OIP.dlF0LwnBFqBUFyYmLbc1xgHaGL?pid=ImgDet&rs=1" alt="T-Shirt"/>
-                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">COCONUT MILK</h4>
+                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://www.foodmaster.my/image/foodmaster/image/data/all_product_images/product-509/EBteexsT1616942975.png" alt="T-Shirt"/>
+                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">CRACKERS BUTTER</h4>
                     <p class="text-blue-500">$12.55</p>
 
                     <button class="flex items-center justify-center w-full px-2 py-2 mt-4 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700">
@@ -134,8 +134,8 @@ function Shopstore1() {
                 </div>
 
                 <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
-                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://th.bing.com/th/id/R.21ec03bef73006996e2151d0fd49ba46?rik=hwxr2M2odZiLPg&riu=http%3a%2f%2fwww.foodbusinessafrica.com%2fwp-content%2fuploads%2f2017%2f09%2fmilkkenya.jpg&ehk=VkYqSECic1b4rZ2bE2NslnSMgnDaDF5SBMKl%2fnTQ72A%3d&risl=&pid=ImgRaw&r=0" alt="T-Shirt"/>
-                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">MOUNTAIN FRESH MILK</h4>
+                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://i.ebayimg.com/images/g/~7UAAOSwwS5cGu-b/s-l300.jpg" alt="T-Shirt"/>
+                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">PEANUT BUTTER </h4>
                     <p class="text-blue-500">$12.55</p>
 
                     <button class="flex items-center justify-center w-full px-2 py-2 mt-4 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700">
@@ -147,8 +147,8 @@ function Shopstore1() {
                 </div>
 
                 <div class="flex flex-col items-center justify-center w-full max-w-lg mx-auto">
-                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://th.bing.com/th/id/R.21ec03bef73006996e2151d0fd49ba46?rik=hwxr2M2odZiLPg&riu=http%3a%2f%2fwww.foodbusinessafrica.com%2fwp-content%2fuploads%2f2017%2f09%2fmilkkenya.jpg&ehk=VkYqSECic1b4rZ2bE2NslnSMgnDaDF5SBMKl%2fnTQ72A%3d&risl=&pid=ImgRaw&r=0" alt="T-Shirt"/>
-                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">MOUNTAIN FRESH MILK</h4>
+                    <img class="object-cover w-full rounded-md h-72 xl:h-80" src="https://th.bing.com/th/id/R.b9c37b7efccff945962313b0127d5cf4?rik=%2fU4cQ4eo6ycTEg&pid=ImgRaw&r=0" alt="T-Shirt"/>
+                    <h4 class="mt-2 text-lg font-medium text-gray-700 dark:text-black-200">BACON CHEESE</h4>
                     <p class="text-blue-500">$12.55</p>
 
                     <button class="flex items-center justify-center w-full px-2 py-2 mt-4 font-medium tracking-wide text-white capitalize transition-colors duration-200 transform bg-gray-800 rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700">

@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../Homepage/Navbar'
-import Gallery from "../Gallery";
+import Gallery from '../Homepage/Gallery'
 import Footer from "./Footer";
 // import Shop from "./components/Shop";
 import Badge from "./Badge";
