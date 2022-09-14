@@ -35,7 +35,7 @@ function Top() {
                   >
                     <NavDropdown.Item href="/shop">Shop</NavDropdown.Item>
                     <NavDropdown.Item href="#action4">
-                      Another action
+                      Chat with us
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
                     <NavDropdown.Item href="#action5">
